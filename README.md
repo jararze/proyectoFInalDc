@@ -101,22 +101,15 @@ docker push tu-usuario/farmacia-backend
 docker push postgres:14
 ```
 
-## Desarrollo y Contribución
-1. Verifica los repositorios originales para directrices de contribución
-2. Haz un fork de los repositorios correspondientes
-3. Crea tu rama de características
-4. Confirma tus cambios
-5. Sube tu rama
-6. Abre un Pull Request en el repositorio original
 
 ## Colaboradores
-- Edson Yanez Villa (Backend)
-- Santos Jared (Frontend)
+- Edson Yanez Villa 
+- Santos Machaca Lopez 
+- Jorge Arze
+- Kevin Paz
+- Rene Bruno Vilela
 
 ## Problemas Comunes
 - Si encuentras errores de conexión, verifica que Docker esté corriendo
 - Asegúrate de tener la última versión de las dependencias
 - Revisa los logs de Docker para diagnóstico de problemas
-
-## Licencia
-[Especificar la licencia del proyecto, por ejemplo: MIT, Apache 2.0]
